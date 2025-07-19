@@ -7,13 +7,11 @@ Go beyond raw output and measure how well players *fit* together — using ball 
 
 ## ⚙️ Tech Stack
 - Python (pandas, numpy, matplotlib)
-- Streamlit (dashboard app)
-- Public stats: Sports Reference, BartTorvik
+- Powerbi Dashboard (dashboard app)
+- Public stats: Sports Reference
 
 ## 📁 Folder Structure
 - `data/` — Raw CSVs for player stats + lineups
-- `metrics/` — Functions to calculate chemistry metrics
 - `output/` — Final lineup scores
-- `app/` — Streamlit dashboard
+- `powerbi/` — Powerbi dashboard
 - `notebooks/` — Prototyping/EDA
-- `writeup.pdf` — Final report
