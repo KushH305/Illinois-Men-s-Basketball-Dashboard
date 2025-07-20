@@ -42,7 +42,7 @@ This section provides a visual overview of the interactive Power BI dashboard.
 ![Dashboard Main View](screenshots/dashboard_main.png)
 
 ### Dynamic Weight Adjustment
-![Dashboard Dynamic Weights](screenshots/dashbaord_dynamic.png)
+![Dashboard Dynamic Weights](screenshots/dashboard_dynamic.png)
 
 ### Lineup Results & Insights
 ![Dashboard Results](screenshots/dashboard_results.png)
