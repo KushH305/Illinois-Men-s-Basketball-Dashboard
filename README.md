@@ -28,7 +28,7 @@ The **Lineup Chemistry Score** is a comprehensive metric designed to quantify th
 
 Each of these underlying metrics is normalized to a consistent scale (0 to 1) before being combined.
 
-** 🔍 Explore the Interactive Dashboard:
+## ⚙ Explore Dashboard
 * Navigate to the `powerbi/` folder.
 * Open the `Lineup_Chemistry_Analyzer.pbix` file.
 * **Note:** Power BI Desktop is required to open this file and fully interact with the dashboard.
