@@ -35,4 +35,14 @@ Each of these underlying metrics is normalized to a consistent scale (0 to 1) be
 * **Interactive Feature:** The dashboard allows you to dynamically adjust the weights for each chemistry component using sliders, providing real-time updates to the Lineup Chemistry Score.
 
 ## 📊 Dashboard Visuals
+
+This section provides a visual overview of the interactive Power BI dashboard.
+
+### Dashboard Main View
 ![Dashboard Main View](screenshots/dashboard_main.png)
+
+### Dynamic Weight Adjustment
+![Dashboard Dynamic Weights](screenshots/dashbaord_dynamic.png)
+
+### Lineup Results & Insights
+![Dashboard Results](screenshots/dashboard_results.png)
