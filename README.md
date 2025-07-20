@@ -33,3 +33,6 @@ Each of these underlying metrics is normalized to a consistent scale (0 to 1) be
 * Open the `Lineup_Chemistry_Analyzer.pbix` file.
 * **Note:** Power BI Desktop is required to open this file and fully interact with the dashboard.
 * **Interactive Feature:** The dashboard allows you to dynamically adjust the weights for each chemistry component using sliders, providing real-time updates to the Lineup Chemistry Score.
+
+## 📊 Dashboard Visuals
+![Dashboard Main View](screenshots/dashboard_main.png)
